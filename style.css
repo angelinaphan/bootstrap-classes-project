@@ -9,3 +9,19 @@ body {
 .row {
   text-align: center;
 }
+
+.carousel {
+  width: 400px;
+  height: 400px;
+  margin: auto;
+}
+
+#info {
+  border: 2px solid white;
+  background-color: white;
+  width: 300px;
+  padding: 25px;
+  border-radius: 5px;
+  text-align: center;
+  margin: auto;
+}
