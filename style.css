@@ -17,3 +17,9 @@ body {
 .web, .demo {
   text-align: center;
 }
+
+.webd {
+  height: 300px;
+  width: 500px;
+  border-radius: rounded;
+}
