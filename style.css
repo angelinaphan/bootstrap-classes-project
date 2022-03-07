@@ -7,18 +7,18 @@ body {
 }
 
 #info {
-  border: 1px solid black;
+  border: 1px solid white;
   width: 400px;
   padding: 50px;
   text-align: center;
   margin: auto;
 }
 
-.web, .demo {
+.web, .demo, .italian {
   text-align: center;
 }
 
-.webd {
-  height: 300px;
-  width: 500px;
+.carousel {
+  height: auto;
+  width: 100%;
 }
